@@ -1,6 +1,6 @@
 Aibots is an E-commerce website. 
 
-includes about autobots and it has a brief introduction for autobot lovers. 
+This system is about autobots and it has a brief introduction for autobot lovers. 
 gives a brief introduction about autobots by providing few PDF documents. 
 Customers can order autobots via online. 
 Customers can see descriptions about products and can add to cart.
